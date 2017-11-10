@@ -98,7 +98,7 @@ div.questions p {
 div.questions a.btn {
   border-radius: 5px;
   color: #FFF;
-  background-color: #007bff
-  text-decoloration
+  background-color: #007bff;
+  text-decoration: underline;
 
 }
