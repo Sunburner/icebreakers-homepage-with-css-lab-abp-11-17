@@ -103,5 +103,8 @@ div.questions a.btn {
   text-decoration: none;
   padding: 18px 18px 18px 18px;
   font-size: 20px;
+}
 
+div.questions a.btn:hover {
+  text-decoration: underline;
 }
