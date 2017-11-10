@@ -47,8 +47,8 @@ h3#header {
 
 
 
-#header a{
-  font-size: 10px
+#header a {
+  text-decoration: none;
 }
 
 
