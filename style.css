@@ -43,7 +43,10 @@ nav a:hover {
 h3#header {
   float: left;
   font-size: 30px;
+}
 
+#header{
+  font-size: 10px
 }
 
 div.jumbotron {
