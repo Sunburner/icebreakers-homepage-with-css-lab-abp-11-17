@@ -41,9 +41,8 @@ nav a:hover {
 }
 
 h3#header {
-
-float: left;
-
+  float: left;
+  font-size: 30px;
 
 }
 
