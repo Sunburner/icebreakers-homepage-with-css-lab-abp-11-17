@@ -45,9 +45,14 @@ h3#header {
   font-size: 30px;
 }
 
-#header{
+
+
+#header a{
   font-size: 10px
 }
+
+
+
 
 div.jumbotron {
   border-radius: 5px;
