@@ -56,6 +56,10 @@ h3#header {
   text-decoration: underline;;
 }
 
+main {
+  margin-left: 20px;
+}
+
 
 div.jumbotron {
   border-radius: 5px;
